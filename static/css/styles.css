@@ -4,11 +4,11 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333333;
-  justify-content: center;
 }
 
 ul li {
   float: left;
+  justify-content: center;
 }
 
 ul li a {
